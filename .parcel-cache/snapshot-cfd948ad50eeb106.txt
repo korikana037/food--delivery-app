@@ -1,12 +1,4 @@
-3613
-50D:\Namaste React\Frontend\food delivery app\app.js134302170421615655 0
-99D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\svg-fragment.js134302096442495803 0
-73D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract134302096417557833 1
-72D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\index.d.ts134302096429864198 0
-75D:\Namaste React\Frontend\food delivery app\node_modules\.package-lock.json134302167564322237 0
-73D:\Namaste React\Frontend\food delivery app\node_modules\term-size\vendor134302096417557833 1
-106D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-backdrop-filter.js134302096428901680 0
-103D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-motion-paths.js134302096430756151 0
+3617
 56D:\Namaste React\Frontend\food delivery app\package.json134302171891310322 0
 96D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_iterable_to_array_limit134302096431431283 1
 80D:\Namaste React\Frontend\food delivery app\node_modules\escalade\dist\index.mjs134302096417476833 0
@@ -18,20 +10,41 @@
 86D:\Namaste React\Frontend\food delivery app\node_modules\weak-lru-cache\LRFUExpirer.js134302096416516418 0
 74D:\Namaste React\Frontend\food delivery app\node_modules\@msgpackr-extract134302096408019594 1
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\KR.js134302096436401838 0
-48D:\Namaste React\Frontend\food delivery app\dist134302172367074040 1
+48D:\Namaste React\Frontend\food delivery app\dist134302332466132113 1
 78D:\Namaste React\Frontend\food delivery app\node_modules\dotenv-expand\LICENSE134302096414882276 0
 77D:\Namaste React\Frontend\food delivery app\node_modules\type-fest\index.d.ts134302096419881697 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\JE.js134302096435757109 0
 61D:\Namaste React\Frontend\food delivery app\package-lock.json134302167563646159 0
 90D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\let.js134302096436601006 0
+81D:\Namaste React\Frontend\food delivery app\node_modules\react-refresh\runtime.js134302096418145902 0
+113D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0134302096422734824 1
+99D:\Namaste React\Frontend\food delivery app\node_modules\node-gyp-build-optional-packages\README.md134302096417472078 0
+79D:\Namaste React\Frontend\food delivery app\node_modules\semver\functions\eq.js134302096419360269 0
+104D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json\lib\JSONTransformer.js134302096415448607 0
+54D:\Namaste React\Frontend\food delivery app\.gitignore134302179002403575 0
+50D:\Namaste React\Frontend\food delivery app\app.js134302331897708452 0
+99D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\svg-fragment.js134302096442495803 0
+113D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag134302096421341543 0
+99D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css3-cursors.js134302096431809396 0
+84D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\config-default\test134302096416183258 1
+70D:\Namaste React\Frontend\food delivery app\node_modules\scheduler\cjs134302167488026676 1
+92D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\compressor-raw\package.json134302096416567010 0
+53D:\Namaste React\Frontend\food delivery app\index.css134302332465808598 0
+102D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\document-policy.js134302096432313547 0
 108D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs134302096433414699 0
 111D:\Namaste React\Frontend\food delivery app\node_modules\react-refresh\cjs\react-refresh-runtime.development.js134302096417489821 0
-54D:\Namaste React\Frontend\food delivery app\index.html134302172360848120 0
+54D:\Namaste React\Frontend\food delivery app\index.html134302205514630680 0
 56D:\Namaste React\Frontend\food delivery app\node_modules134302167487510425 1
 106D:\Namaste React\Frontend\food delivery app\node_modules\ordered-binary\.nyc_output\processinfo\index.json134302096418578100 0
 87D:\Namaste React\Frontend\food delivery app\node_modules\type-fest\source\value-of.d.ts134302096422613208 0
 61D:\Namaste React\Frontend\food delivery app\node_modules\.bin134302096447025198 1
 75D:\Namaste React\Frontend\food delivery app\node_modules\node-releases\data134302096416875096 1
+73D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract134302096417557833 1
+72D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\index.d.ts134302096429864198 0
+75D:\Namaste React\Frontend\food delivery app\node_modules\.package-lock.json134302167564322237 0
+73D:\Namaste React\Frontend\food delivery app\node_modules\term-size\vendor134302096417557833 1
+106D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-backdrop-filter.js134302096428901680 0
+103D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-motion-paths.js134302096430756151 0
 80D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\fs\package.json134302096419390046 0
 96D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\node-resolver-core\package.json134302096418222816 0
 79D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\node-index.js134302096419816334 0
@@ -156,18 +169,6 @@
 131D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js134302096417197886 0
 70D:\Namaste React\Frontend\food delivery app\node_modules\dotenv-expand134302096418212869 1
 108D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-container-queries.js134302096429213375 0
-82D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\core\lib\types.js134302096429398468 0
-91D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\feature-flags\src\types.js134302096417745879 0
-88D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\cjs\_ts_values.cjs134302096427100068 0
-80D:\Namaste React\Frontend\food delivery app\node_modules\react-dom\test-utils.js134302167562842345 0
-90D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\es6.js134302096432781538 0
-71D:\Namaste React\Frontend\food delivery app\node_modules\weak-lru-cache134302096418267784 1
-85D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\watcher\package.json134302096427478110 0
-75D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dict\dict.txt134302096429876692 0
-94D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\src\_async_generator.mjs134302096432219266 0
-96D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\node_modules\node-addon-api\napi.h134302096418806084 0
-75D:\Namaste React\Frontend\food delivery app\node_modules\react-dom\index.js134302167510596110 0
-88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\SO.js134302096441912239 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\MQ.js134302096437994694 0
 77D:\Namaste React\Frontend\food delivery app\node_modules\postcss-value-parser134302096418306964 1
 77D:\Namaste React\Frontend\food delivery app\node_modules\electron-to-chromium134302096419098026 1
@@ -214,9 +215,6 @@
 66D:\Namaste React\Frontend\food delivery app\node_modules\picomatch134302096418691154 1
 62D:\Namaste React\Frontend\food delivery app\node_modules\react134302097762458111 1
 108D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_class_static_private_field_spec_get134302096430907692 1
-70D:\Namaste React\Frontend\food delivery app\node_modules\utility-types134302096419676495 1
-102D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-unset-value.js134302096431588375 0
-105D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\orientation-sensor.js134302096439101426 0
 93D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\reporter-tracer\package.json134302096416576926 0
 95D:\Namaste React\Frontend\food delivery app\node_modules\baseline-browser-mapping\dist\index.js134302096417161735 0
 100D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock134302096431109648 0
@@ -234,6 +232,21 @@
 62D:\Namaste React\Frontend\food delivery app\node_modules\tslib134302096419160138 1
 114D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc134302096417320229 0
 127D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE134302096414956458 0
+70D:\Namaste React\Frontend\food delivery app\node_modules\utility-types134302096419676495 1
+102D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-unset-value.js134302096431588375 0
+105D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\orientation-sensor.js134302096439101426 0
+82D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\core\lib\types.js134302096429398468 0
+91D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\feature-flags\src\types.js134302096417745879 0
+88D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\cjs\_ts_values.cjs134302096427100068 0
+80D:\Namaste React\Frontend\food delivery app\node_modules\react-dom\test-utils.js134302167562842345 0
+90D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\es6.js134302096432781538 0
+71D:\Namaste React\Frontend\food delivery app\node_modules\weak-lru-cache134302096418267784 1
+85D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\watcher\package.json134302096427478110 0
+75D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dict\dict.txt134302096429876692 0
+94D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\src\_async_generator.mjs134302096432219266 0
+96D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\node_modules\node-addon-api\napi.h134302096418806084 0
+75D:\Namaste React\Frontend\food delivery app\node_modules\react-dom\index.js134302167510596110 0
+88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\SO.js134302096441912239 0
 75D:\Namaste React\Frontend\food delivery app\node_modules\globals\index.d.ts134302096417444001 0
 105D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_array_like_to_array\package.json134302096430053358 0
 76D:\Namaste React\Frontend\food delivery app\node_modules\weak-lru-cache\dist134302096414865101 1
@@ -735,10 +748,6 @@
 103D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\view-transitions.js134302096444662056 0
 81D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_decorate134302096431085562 1
 81D:\Namaste React\Frontend\food delivery app\node_modules\semver\functions\diff.js134302096419192290 0
-81D:\Namaste React\Frontend\food delivery app\node_modules\react-refresh\runtime.js134302096418145902 0
-113D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0134302096422734824 1
-99D:\Namaste React\Frontend\food delivery app\node_modules\node-gyp-build-optional-packages\README.md134302096417472078 0
-79D:\Namaste React\Frontend\food delivery app\node_modules\semver\functions\eq.js134302096419360269 0
 73D:\Namaste React\Frontend\food delivery app\node_modules\globals\index.js134302096415332170 0
 79D:\Namaste React\Frontend\food delivery app\node_modules\semver\functions\gt.js134302096419474013 0
 93D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\dist\unpacker\agents.js134302096419805902 0
@@ -801,10 +810,6 @@
 74D:\Namaste React\Frontend\food delivery app\node_modules\commander\LICENSE134302096414956458 0
 111D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\esm\_class_static_private_field_update.js134302096428381323 0
 81D:\Namaste React\Frontend\food delivery app\node_modules\semver\classes\semver.js134302096422637399 0
-113D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag134302096421341543 0
-99D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css3-cursors.js134302096431809396 0
-84D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\config-default\test134302096416183258 1
-70D:\Namaste React\Frontend\food delivery app\node_modules\scheduler\cjs134302167488026676 1
 96D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_call_super\package.json134302096430348251 0
 85D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\src\_update.mjs134302096433414699 0
 74D:\Namaste React\Frontend\food delivery app\node_modules\commander\typings134302096419577650 1
@@ -828,7 +833,6 @@
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\LS.js134302096436920147 0
 97D:\Namaste React\Frontend\food delivery app\node_modules\baseline-browser-mapping\dist\utils.d.ts134302096418777919 0
 83D:\Namaste React\Frontend\food delivery app\node_modules\scheduler\unstable_mock.js134302167488036381 0
-77D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\SECURITY.md134302096423419204 0
 108D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose134302096431054654 1
 88D:\Namaste React\Frontend\food delivery app\node_modules\scheduler\unstable_post_task.js134302167488036381 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\CX.js134302096431959797 0
@@ -1109,15 +1113,15 @@
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\FM.js134302096433201773 0
 89D:\Namaste React\Frontend\food delivery app\node_modules\ordered-binary\.idea\modules.xml134302096419390046 0
 96D:\Namaste React\Frontend\food delivery app\node_modules\ordered-binary\.idea\ordered-binary.iml134302096416124613 0
+66D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dict134302096429883388 1
+101D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\esm\_assert_this_initialized.js134302096427766799 0
+82D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract\index.js134302096416949366 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\util\set-optional-deps.cjs134302096428032033 0
 75D:\Namaste React\Frontend\food delivery app\node_modules\nullthrows\LICENSE134302096415337144 0
 94D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_decorate\package.json134302096431096784 0
 110D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\_\_class_private_method_get\package.json134302096430802547 0
 75D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\stream.js134302096420301136 0
 110D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js134302096428930969 0
-66D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dict134302096429883388 1
-101D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\esm\_assert_this_initialized.js134302096427766799 0
-82D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr-extract\index.js134302096416949366 0
 104D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-image\src\validateConfig.js134302096418227861 0
 83D:\Namaste React\Frontend\food delivery app\node_modules\nullthrows\nullthrows.d.ts134302096415801293 0
 82D:\Namaste React\Frontend\food delivery app\node_modules\dotenv\lib\cli-options.js134302096415434985 0
@@ -1171,9 +1175,9 @@
 97D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\fullscreen.js134302096433469830 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\ID.js134302096434586492 0
 76D:\Namaste React\Frontend\food delivery app\node_modules\color-name\index.js134302096415308842 0
-78D:\Namaste React\Frontend\food delivery app\node_modules\node-addon-api\napi.h134302096418962826 0
-88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\LC.js134302096436601006 0
 114D:\Namaste React\Frontend\food delivery app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c134302096427804963 0
+88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\LC.js134302096436601006 0
+78D:\Namaste React\Frontend\food delivery app\node_modules\node-addon-api\napi.h134302096418962826 0
 90D:\Namaste React\Frontend\food delivery app\node_modules\node-addon-api\node_addon_api.gyp134302096415202071 0
 92D:\Namaste React\Frontend\food delivery app\node_modules\node-addon-api\package-support.json134302096419816334 0
 73D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\pack.js134302096420032777 0
@@ -1242,6 +1246,7 @@
 76D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\pack.d.cts134302096418496004 0
 88D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\regions\GM.js134302096433830841 0
 82D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\rollup.config.js134302096420129684 0
+77D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\SECURITY.md134302096423419204 0
 75D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\struct.js134302096420470786 0
 80D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\test-worker.js134302096420543731 0
 78D:\Namaste React\Frontend\food delivery app\node_modules\msgpackr\unpack.d.cts134302096418621516 0
@@ -2031,8 +2036,8 @@
 82D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-image134302096418379284 1
 102D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\contenteditable.js134302096428513532 0
 103D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\cookie-store-api.js134302096428583239 0
-104D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\createimagebitmap.js134302096428700389 0
 103D:\Namaste React\Frontend\food delivery app\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs134302096432848012 0
+104D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\createimagebitmap.js134302096428700389 0
 108D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\credential-management.js134302096428727217 0
 99D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\cryptography.js134302096428776709 0
 109D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\css-anchor-positioning.js134302096428812229 0
@@ -2189,8 +2194,6 @@
 100D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\watcher\src\linux\InotifyBackend.cc134302096424752472 0
 81D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json134302096416412791 1
 107D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\document-execcommand.js134302096432275204 0
-92D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\compressor-raw\package.json134302096416567010 0
-102D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\document-policy.js134302096432313547 0
 103D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js134302096417856687 0
 112D:\Namaste React\Frontend\food delivery app\node_modules\caniuse-lite\data\features\document-scrollingelement.js134302096432317998 0
 83D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\node-resolver-core134302096418169935 1
@@ -3122,7 +3125,6 @@
 85D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json\lib134302096415355632 1
 89D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json\LICENSE134302096414956458 0
 94D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json\package.json134302096416536741 0
-104D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-json\lib\JSONTransformer.js134302096415448607 0
 83D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-js\src134302096418289757 1
 103D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-js\src\esmodule-helpers.js134302096416147366 0
 102D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\transformer-js\src\mdx-components.jsx134302096418322170 0
@@ -3197,7 +3199,7 @@
 97D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\rust-win32-x64-msvc\package.json134302096415327057 0
 95D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\error-overlay\lib\index.js.map134302096422467710 0
 80D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\rust\index.d.ts134302096418487083 0
-82D:\Namaste React\Frontend\food delivery app\dist\food delivery app.f72d0d54.js.map134302172367074040 0
+82D:\Namaste React\Frontend\food delivery app\dist\food delivery app.f72d0d54.js.map134302331899290625 0
 78D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\rust\index.js134302096417081910 0
 77D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\rust\LICENSE134302096414956458 0
 92D:\Namaste React\Frontend\food delivery app\node_modules\@parcel\error-overlay\src\styles.js134302096421994341 0
@@ -3610,5 +3612,7 @@
 103D:\Namaste React\Frontend\food delivery app\node_modules\.bin\node-gyp-build-optional-packages-test.ps1134302096447008686 0
 98D:\Namaste React\Frontend\food delivery app\node_modules\.bin\node-gyp-build-optional-packages.ps1134302096447008686 0
 72D:\Namaste React\Frontend\food delivery app\node_modules\.bin\semver.cmd134302096447008686 0
-78D:\Namaste React\Frontend\food delivery app\dist\food delivery app.f72d0d54.js134302172367066259 0
-59D:\Namaste React\Frontend\food delivery app\dist\index.html134302172366118394 0
+79D:\Namaste React\Frontend\food delivery app\dist\food delivery app.9e4c6fd2.css134302332466077410 0
+83D:\Namaste React\Frontend\food delivery app\dist\food delivery app.9e4c6fd2.css.map134302332466127117 0
+78D:\Namaste React\Frontend\food delivery app\dist\food delivery app.f72d0d54.js134302331899220819 0
+59D:\Namaste React\Frontend\food delivery app\dist\index.html134302262933629554 0

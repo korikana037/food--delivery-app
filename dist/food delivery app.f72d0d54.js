@@ -727,24 +727,330 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-const HeadingComponent = ()=>{
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-        children: "Food Delivery App"
-    }, void 0, false, {
+const Header = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "header",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "logo-container",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                    className: "logo",
+                    src: "https://img.magnific.com/premium-vector/fast-free-food-delivery_1208773-925.jpg?semt=ais_hybrid&w=740&q=80"
+                }, void 0, false, {
+                    fileName: "app.js",
+                    lineNumber: 8,
+                    columnNumber: 17
+                }, undefined)
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 7,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "nav-items",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "Home"
+                        }, void 0, false, {
+                            fileName: "app.js",
+                            lineNumber: 12,
+                            columnNumber: 21
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "About Us"
+                        }, void 0, false, {
+                            fileName: "app.js",
+                            lineNumber: 13,
+                            columnNumber: 21
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "Contact Us"
+                        }, void 0, false, {
+                            fileName: "app.js",
+                            lineNumber: 14,
+                            columnNumber: 21
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "Cart"
+                        }, void 0, false, {
+                            fileName: "app.js",
+                            lineNumber: 15,
+                            columnNumber: 21
+                        }, undefined)
+                    ]
+                }, void 0, true, {
+                    fileName: "app.js",
+                    lineNumber: 11,
+                    columnNumber: 17
+                }, undefined)
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 10,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
         fileName: "app.js",
-        lineNumber: 5,
-        columnNumber: 12
+        lineNumber: 6,
+        columnNumber: 9
     }, undefined);
 };
-_c = HeadingComponent;
+_c = Header;
+const resList = [
+    {
+        id: "1",
+        name: "KFC",
+        image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600",
+        cuisines: [
+            "Burger",
+            "Fast Food",
+            "Rolls"
+        ],
+        rating: 4.3,
+        deliveryTime: "22 mins",
+        costForTwo: "\u20B9400 for two",
+        area: "Madhurawada"
+    },
+    {
+        id: "2",
+        name: "Pizza Hut",
+        image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600",
+        cuisines: [
+            "Pizza",
+            "Italian"
+        ],
+        rating: 4.2,
+        deliveryTime: "30 mins",
+        costForTwo: "\u20B9350 for two",
+        area: "PM Palem"
+    },
+    {
+        id: "3",
+        name: "Domino's Pizza",
+        image: "https://images.unsplash.com/photo-1548365328-9f547fb0953b?w=600",
+        cuisines: [
+            "Pizza",
+            "Cheese Burst"
+        ],
+        rating: 4.4,
+        deliveryTime: "25 mins",
+        costForTwo: "\u20B9500 for two",
+        area: "MVP Colony"
+    },
+    {
+        id: "4",
+        name: "Subway",
+        image: "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?w=600",
+        cuisines: [
+            "Sandwich",
+            "Salads",
+            "Healthy Food"
+        ],
+        rating: 4.1,
+        deliveryTime: "18 mins",
+        costForTwo: "\u20B9300 for two",
+        area: "Yendada"
+    },
+    {
+        id: "5",
+        name: "Burger King",
+        image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600",
+        cuisines: [
+            "Burger",
+            "Fries",
+            "Beverages"
+        ],
+        rating: 4.0,
+        deliveryTime: "20 mins",
+        costForTwo: "\u20B9450 for two",
+        area: "Madhurawada"
+    },
+    {
+        id: "6",
+        name: "The Belgian Waffle Co.",
+        image: "https://images.unsplash.com/photo-1562376552-0d160a2f238d?w=600",
+        cuisines: [
+            "Desserts",
+            "Waffles",
+            "Ice Cream"
+        ],
+        rating: 4.7,
+        deliveryTime: "28 mins",
+        costForTwo: "\u20B9250 for two",
+        area: "Midhilapuri"
+    },
+    {
+        id: "7",
+        name: "Paradise Biryani",
+        image: "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=600",
+        cuisines: [
+            "Biryani",
+            "North Indian"
+        ],
+        rating: 4.5,
+        deliveryTime: "35 mins",
+        costForTwo: "\u20B9600 for two",
+        area: "Beach Road"
+    },
+    {
+        id: "8",
+        name: "Mehfil Restaurant",
+        image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600",
+        cuisines: [
+            "Biryani",
+            "Chinese",
+            "Tandoori"
+        ],
+        rating: 4.2,
+        deliveryTime: "32 mins",
+        costForTwo: "\u20B9500 for two",
+        area: "Gajuwaka"
+    }
+];
+const RestaurantCard = (props)=>{
+    const { resData } = props;
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "res-card",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                className: "res-logo",
+                src: resData.image
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 117,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                children: resData.name
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 118,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "rating-time",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                        children: [
+                            "\u2B50",
+                            resData.rating,
+                            " "
+                        ]
+                    }, void 0, true, {
+                        fileName: "app.js",
+                        lineNumber: 120,
+                        columnNumber: 17
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                        children: resData.deliveryTime
+                    }, void 0, false, {
+                        fileName: "app.js",
+                        lineNumber: 121,
+                        columnNumber: 17
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "app.js",
+                lineNumber: 119,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                children: resData.cuisines.join(", ")
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 123,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                children: resData.costForTwo
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 124,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                children: resData.area
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 125,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "app.js",
+        lineNumber: 116,
+        columnNumber: 9
+    }, undefined);
+};
+_c1 = RestaurantCard;
+const Body = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "body",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "search",
+                children: "Search"
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 133,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "res-container",
+                children: resList.map((restaurant)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {
+                        resData: restaurant
+                    }, restaurant.id, false, {
+                        fileName: "app.js",
+                        lineNumber: 137,
+                        columnNumber: 25
+                    }, undefined))
+            }, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 134,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "app.js",
+        lineNumber: 132,
+        columnNumber: 9
+    }, undefined);
+};
+_c2 = Body;
+const AppLayout = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "app",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Header, {}, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 148,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Body, {}, void 0, false, {
+                fileName: "app.js",
+                lineNumber: 149,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "app.js",
+        lineNumber: 147,
+        columnNumber: 9
+    }, undefined);
+};
+_c3 = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById('root'));
-root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
+root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "app.js",
-    lineNumber: 9,
+    lineNumber: 155,
     columnNumber: 13
 }, undefined));
-var _c;
-$RefreshReg$(_c, "HeadingComponent");
+var _c, _c1, _c2, _c3;
+$RefreshReg$(_c, "Header");
+$RefreshReg$(_c1, "RestaurantCard");
+$RefreshReg$(_c2, "Body");
+$RefreshReg$(_c3, "AppLayout");
 
   $parcel$ReactRefreshHelpers$5fe5.postlude(module);
 } finally {
