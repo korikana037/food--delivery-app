@@ -1,6 +1,11 @@
 
+import { useState } from 'react';
 import { HEADER_LOGO } from '../utils/constants'
 const Header = () => {
+    const [buttonText, setButtonText] = useState('Login')
+    const handleClick = () => {
+         buttonText === 'Login' ? setButtonText('Logout'):setButtonText('Login');
+    }
     return (
         <div className='header'>
             <div className='logo-container'>
@@ -12,6 +17,9 @@ const Header = () => {
                     <li>About Us</li>
                     <li>Contact Us</li>
                     <li>Cart</li>
+                    <li>
+                        <button className='login-btn' onClick={handleClick}>{buttonText}</button>
+                    </li>
                 </ul>
             </div>
         </div>

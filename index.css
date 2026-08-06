@@ -19,9 +19,7 @@
     margin: 10px;
 }
 
-.search {
-    padding: 5px;
-}
+
 
 .res-container {
     display: flex;
@@ -47,4 +45,40 @@
 
 .res-logo {
     width: 100%
+}
+
+.filter {
+    margin: 10px;
+    display: flex;
+}
+
+.search {
+    margin: 5px;
+}
+.filter-btn {
+    margin: 5px;
+}
+
+
+
+.filter-btn:hover {
+    cursor: pointer;
+}
+
+.shimmer-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    
+}
+
+.login-btn {
+    padding: 5px 20px;
 }
