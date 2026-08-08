@@ -1,6 +1,7 @@
 
 import { useState } from 'react';
-import { HEADER_LOGO } from '../utils/constants'
+import { Link } from 'react-router-dom';
+import { HEADER_LOGO } from '../utils/constants';
 const Header = () => {
     const [buttonText, setButtonText] = useState('Login')
     const handleClick = () => {
@@ -9,13 +10,19 @@ const Header = () => {
     return (
         <div className='header'>
             <div className='logo-container'>
-                <img className='logo' src='https://img.magnific.com/premium-vector/fast-free-food-delivery_1208773-925.jpg?semt=ais_hybrid&w=740&q=80' />
+                <img className='logo' src={HEADER_LOGO} />
             </div>
             <div className='nav-items'>
                 <ul>
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Contact Us</li>
+                    <li>
+                        <Link to='/'>Home</Link>
+                    </li>
+                    <li>
+                        <Link to='/about'>About Us</Link>
+                    </li>
+                    <li>
+                        <Link to='/contact'>Contact Us</Link>
+                    </li>
                     <li>Cart</li>
                     <li>
                         <button className='login-btn' onClick={handleClick}>{buttonText}</button>
